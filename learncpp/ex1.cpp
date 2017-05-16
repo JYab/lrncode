@@ -1,4 +1,4 @@
-// a sall C++ program
+// a sall C++ program lololol
 #include <iostream>
 
 int main()
