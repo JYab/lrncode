@@ -8,7 +8,7 @@ int main()
 // as its result. A '0' means it is successful; other values will mean errors
 {	
 	
-	std::cout << "Hello, world!" << std::end1;	
+	std::cout << "Hello, world!" << std::endl;	
 /* std is a namespace used to contain all the names that it defines
 ex: std would define cout and end1. 
 :: is a scope opertator. to the left is its name(std) 
